@@ -1,0 +1,23 @@
+{
+    "weekend destinations": [
+        {
+            "id":1,
+            "place":"Spierr",
+            "day": "firday"
+
+        },
+        {
+            "id":1,
+            "place":"V&A",
+            "day":"saturday"
+
+        },
+        {
+            "id":1,
+            "place":"jhb",
+            "day":"sunday"
+
+        }
+
+    ]
+}
